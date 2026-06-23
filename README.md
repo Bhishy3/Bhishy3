@@ -31,6 +31,33 @@ Currently building **Triad**.
 
 ---
 
+## Platforms
+
+<div align="center">
+
+![macOS](https://img.shields.io/badge/macOS-1b4332?style=for-the-badge&logo=apple&logoColor=a8d5b5)
+![iOS](https://img.shields.io/badge/iOS-0f2d1e?style=for-the-badge&logo=apple&logoColor=74c8a3)
+![Windows](https://img.shields.io/badge/Windows-0d1f2d?style=for-the-badge&logo=windows&logoColor=5bb8f5)
+![Linux](https://img.shields.io/badge/Linux-1a2e1a?style=for-the-badge&logo=linux&logoColor=a8d5b5)
+
+</div>
+
+---
+
+## Tools
+
+<div align="center">
+
+![Fusion 360](https://img.shields.io/badge/Fusion_360-1b4332?style=for-the-badge&logo=autodesk&logoColor=a8d5b5)
+![Blender](https://img.shields.io/badge/Blender-0f2d1e?style=for-the-badge&logo=blender&logoColor=74c8a3)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1f2d?style=for-the-badge&logo=adobephotoshop&logoColor=5bb8f5)
+![Illustrator](https://img.shields.io/badge/Illustrator-142b1e?style=for-the-badge&logo=adobeillustrator&logoColor=a8d5b5)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0f1a2d?style=for-the-badge&logo=adobepremierepro&logoColor=5bb8f5)
+
+</div>
+
+---
+
 ## GitHub stats
 
 <div align="center">
