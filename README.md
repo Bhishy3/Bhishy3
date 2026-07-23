@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,051a0d,30,0a3d1f,60,145a2e,100,1b6b38&height=280&section=header&text=Bhishan%20Charitra&fontSize=42&fontColor=c8f0d8&animation=twinkling&fontAlignY=55&desc=Coolio%20Mechatronics%20Stuf%20%C2%B7%20Melbourne%2C%20AU&descAlignY=72&descSize=16&descColor=6dbe8c&image=https://github.com/Bhishy3.png&imageHeight=80&imageAlign=50&imageAlignY=25" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=3ecf74&center=true&vCenter=true&width=480&lines=Arduino+%2B+embedded+systems;SwiftUI+%2B+hardware+dashboards;Python+%2B+TypeScript+%2B+more;Currently+building+Triad)](https://github.com/Bhishy3)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=3ecf74&center=true&vCenter=true&width=480&lines=Arduino+%2B+embedded+systems;SwiftUI+%2B+hardware+dashboards;Python+%2B+TypeScript+%2B+more;Homelabbing;Currently+building+Nothing cool)](https://github.com/Bhishy3)
 
 </div>
 
