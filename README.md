@@ -8,9 +8,7 @@
 
 ---
 
-Mechatronics student working across embedded systems, mechanical design, and software. I build the hardware and the interface that controls it.
-
-Currently building **Triad**.
+Idk what im doing here
 
 ---
 
