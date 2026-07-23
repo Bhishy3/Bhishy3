@@ -70,10 +70,9 @@ Idk what im doing here
 
 ## Currently
 
-- 🔧 RTOS and real-time motor control
-- 📱 SwiftUI dashboards for hardware
-- 🤖 Mechatronics + on-device ML
-
+- Building a Homelab 
+- Learning Quiskit
+- Learning Linux
 ---
 
 <div align="center">
