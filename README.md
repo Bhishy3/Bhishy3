@@ -68,11 +68,8 @@ Idk what im doing here
 
 ---
 
-## Currently
+im doing absoutely nothing with my life ngl 🤦‍♂️
 
-- Building a Homelab 
-- Learning Quiskit
-- Learning Linux
 ---
 
 <div align="center">
